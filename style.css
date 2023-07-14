@@ -1,0 +1,28 @@
+
+.leye{
+    width: 160px;
+    height: 195px;
+    background-color:white;
+    left:352px;
+    top: 253px;
+    border-radius: 320px 390px 390px 320px;
+    position:absolute;
+}
+.reye{
+    width: 168px;
+    height: 195px;
+    background-color:white;
+    left: 175px;
+    top: 253px;
+    border-radius: 290px 220px 220px 290px;
+    position:absolute;
+}
+.ball{
+    width: 23px;
+    height: 35px;
+    background-color: black;
+    top: 80px;
+    left: 135px;
+    border-radius: 150px 150px 150px 150px;
+    position: absolute;
+}
